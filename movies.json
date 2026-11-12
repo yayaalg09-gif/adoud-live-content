@@ -1,27 +1,5 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T21:40:18.478Z",
-  "movies": [
-    {
-      "id": "mov_test_final",
-      "title": "فيلم اختبار نهائي",
-      "titleAr": "فيلم اختبار نهائي",
-      "posterUrl": "",
-      "backdropUrl": "",
-      "streamUrl": "https://sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
-      "year": "2024",
-      "duration": "1h30m",
-      "genre": "كوميدي",
-      "synopsis": "فيلم اختبار للتحقق من نظام الإدارة",
-      "synopsisAr": "فيلم اختبار للتحقق من نظام الإدارة",
-      "director": "نظام الإدارة",
-      "cast": "",
-      "rating": 7.5,
-      "country": "Algeria",
-      "originalLanguage": "ar",
-      "rightsStatement": "Authorized Stream",
-      "source": "ADOUD-LIVE ADMIN",
-      "isPlayable": true
-    }
-  ]
+  "updated_at": "2026-11-12T21:40:25.519Z",
+  "movies": []
 }
