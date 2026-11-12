@@ -1,5 +1,19 @@
 {
   "version": 1,
-  "updated_at": "",
-  "channels": []
+  "updated_at": "2026-11-12T21:40:22.107Z",
+  "channels": [
+    {
+      "id": "ch_test_final",
+      "name": "قناة اختبار",
+      "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+      "logoUrl": "",
+      "category": "أخبار",
+      "countryCode": "DZ",
+      "countryName": "الجزائر",
+      "language": "Arabic",
+      "resolution": "HD",
+      "broadcaster": "ADOUD-LIVE TEST",
+      "isLive": true
+    }
+  ]
 }
