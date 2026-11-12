@@ -1,16 +1,5 @@
 {
   "version": 1,
   "updated_at": "",
-  "movies": [
-    {
-      "title": "اختبار مؤقت",
-      "year": "2026",
-      "language": "العربية",
-      "genre": "اختبار",
-      "poster": "",
-      "description": "عنصر تجريبي لاختبار لوحة التحكم",
-      "streamUrl": "",
-      "isPlayable": false
-    }
-  ]
+  "movies": []
 }
