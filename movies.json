@@ -1,5 +1,27 @@
 {
   "version": 1,
-  "updated_at": "",
-  "movies": []
+  "updated_at": "2026-11-12T21:39:32.098Z",
+  "movies": [
+    {
+      "id": "mov_test_abc123",
+      "title": "فيلم اختبار النظام",
+      "titleAr": "فيلم اختبار النظام",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "streamUrl": "",
+      "year": "2024",
+      "duration": "1h30m",
+      "genre": "دراما",
+      "synopsis": "هذا فيلم اختبار لنظام الإدارة",
+      "synopsisAr": "هذا فيلم اختبار لنظام الإدارة",
+      "director": "",
+      "cast": "",
+      "rating": 0,
+      "country": "Algeria",
+      "originalLanguage": "ar",
+      "rightsStatement": "Authorized Stream",
+      "source": "ADOUD-LIVE ADMIN",
+      "isPlayable": false
+    }
+  ]
 }
