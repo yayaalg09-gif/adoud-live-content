@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:02:53.454Z",
+  "updated_at": "2026-11-13T16:03:45.873Z",
   "channels": [
     {
       "id": "ch_al24__تجريبية_mwf5ope9",
@@ -13,19 +13,6 @@
       "language": "Arabic",
       "resolution": "SD",
       "broadcaster": "AL24",
-      "isLive": true
-    },
-    {
-      "id": "ch_جميع_الدول_mwf611vj",
-      "name": "جميع الدول",
-      "streamUrl": "https://iptv-org.github.io/iptv/index.country.m3u",
-      "logoUrl": "",
-      "category": "General",
-      "countryCode": "GLOBAL",
-      "countryName": "Global",
-      "language": "Arabic",
-      "resolution": "Auto",
-      "broadcaster": "",
       "isLive": true
     }
   ]
