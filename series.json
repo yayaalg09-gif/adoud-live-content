@@ -1,5 +1,35 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:28:28.613Z",
-  "series": []
+  "updated_at": "2026-11-14T13:05:25.468Z",
+  "series": [
+    {
+      "id": "ser_محمد_الفاتح_سلطان_الفتوحات_mwgf3wlq",
+      "title": "محمد الفاتح سلطان الفتوحات",
+      "titleAr": "محمد الفاتح سلطان الفتوحات",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "genre": "تاريخي، دراما",
+      "description": "",
+      "year": "",
+      "rating": 0,
+      "country": "تركيا",
+      "originalLanguage": "tr",
+      "episodes": [
+        {
+          "id": "ep_محمد_الفاتح_سلطان_الفتوحات_s4e91_mwgew4v4",
+          "seriesId": "ser_محمد_الفاتح_سلطان_الفتوحات_mwgf3wlq",
+          "title": "محمد الفاتح سلطان الفتوحات – الحلقة 91",
+          "seasonNumber": 4,
+          "episodeNumber": 91,
+          "streamUrl": "",
+          "duration": "2h 25m",
+          "thumbnail": "",
+          "overview": "الحلقة 91 من مسلسل محمد الفاتح سلطان الفتوحات",
+          "isPlayable": false
+        }
+      ],
+      "rightsStatement": "Authorized Broadcast",
+      "isPlayable": true
+    }
+  ]
 }
