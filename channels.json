@@ -1,19 +1,5 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:05:18.744Z",
-  "channels": [
-    {
-      "id": "ch_al24__تجريبية_mwf5ope9",
-      "name": "AL24 – تجريبية",
-      "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
-      "logoUrl": "",
-      "category": "أخبار",
-      "countryCode": "DZ",
-      "countryName": "الجزائر",
-      "language": "Arabic",
-      "resolution": "SD",
-      "broadcaster": "AL24",
-      "isLive": true
-    }
-  ]
+  "updated_at": "2026-11-14T12:25:57.532Z",
+  "channels": []
 }
